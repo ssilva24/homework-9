@@ -1,4 +1,4 @@
 DBNAME=your db name
 DBHOST=localhost
-DBUSER=ssilva24
-DBPASS=stephy2222
+DBUSER=root
+DBPASS=root
