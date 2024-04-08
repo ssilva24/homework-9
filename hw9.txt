@@ -1,0 +1,13 @@
+CISC 3300 Homework 9: SQL and PDOs
+1. What is SQL? What are relational databases?
+    Structured query language (SQL) is a standard language for database creation and manipulation
+    MySQL is a relational database program program that uses SQL queries
+    relational databses store data by tables, rows, columns, fields, and keys
+    a relational dabatase is a type of database that uses a structure that allows to identify
+    and access data in relation to another piece of data in the database
+
+4. What is a PDO in PHP? Why do we need to use prepared statements?
+    PDO stands for PHP Data Objects, it is a more consistent way to access databases
+    This allows developers to write portable code in an easier way
+    Wew need to use prepared statements in order for drivers that do not natively support them, and ti can also 
+    rewrite named or question mark style parameter markers
